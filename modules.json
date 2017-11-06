@@ -166,6 +166,24 @@
       }
     }
   },
+  "vuetify": {
+    "var": "Vuetify",
+    "versions": {
+      ">= 0.16.9": {
+        "development": "https://unpkg.com/vuetify@[version]/dist/vuetify.js",
+        "production": "https://unpkg.com/vuetify@[version]/dist/vuetify.js"
+      }
+    }
+  },
+  "vuex": {
+    "var": "Vuex",
+    "versions": {
+      ">= 3.0.0": {
+        "development": "https://unpkg.com/vuex@[version]/dist/vuex.js",
+        "production": "https://unpkg.com/vuex@[version]/dist/vuex.js"
+      }
+    }
+  },
   "angular": {
     "var": "angular",
     "versions": {
